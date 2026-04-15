@@ -22,7 +22,7 @@ pip install -r requirements.txt
 From the project root:
 
 ```bash
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 ```
 
 API endpoints and docs:
